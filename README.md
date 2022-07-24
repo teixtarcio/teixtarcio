@@ -1,8 +1,8 @@
 <h2>Hi, I'm Tárcio.</h2>
-<h4>I'm a junior Java developer. Currently studying Java, Spring, Angular and MySQL.</h4>
+<h4>I'm a junior Java developer. Currently studying Java, Spring and MySQL.</h4>
 
 ### Tecnologies & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teixtarcio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixtarcio&layout=compact&langs_count=7&theme=dark&border_radius=0"/>

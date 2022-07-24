@@ -5,8 +5,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teixtarcio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixtarcio&layout=compact&langs_count=7&theme=dark&border_radius=0"/>
+![](https://github-readme-stats.vercel.app/api?username=teixtarcio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teixtarcio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/teixtarcio/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/teixtarcio/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/teixtarcio/)

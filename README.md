@@ -1,7 +1,14 @@
-<h2>Olá, eu sou Tárcio.</h2>
+## 👨🏻‍💻 About Me
+:dna: Software Engineer who loves making high-quality applications.<br/>
+:hammer_and_wrench: Mainly code with Go and related tecnologies.<br/>
+:shield: Cyber Security enthusiast.<br/>
 
-### Tecnologias & Ferramentas:
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+Feel free to contact me via [Linkedin](https://linkedin.com/in/tarcioteix) or [bytarcio@gmail.com](mailto:bytarcio@gmail.com)<br/>
 
-### Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=teixtarcio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teixtarcio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## ⚡ Technologies
+Talk to me about:
+
+- Backend development using **GoLang**.
+- Managing databases using **PostgreSQL** and his amazing ecosystem.
+
+![](https://github-readme-stats.vercel.app/api?username=teixtarcio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

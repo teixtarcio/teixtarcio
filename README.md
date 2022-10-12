@@ -3,7 +3,7 @@
 :hammer_and_wrench: Mainly code with Go and related tecnologies.<br/>
 :shield: Cyber Security enthusiast.<br/>
 
-Feel free to contact me via [Linkedin](https://linkedin.com/in/tarcioteix) or [bytarcio@gmail.com](mailto:bytarcio@gmail.com)<br/>
+Feel free to contact me via [Linkedin](https://linkedin.com/in/tarcioteix), [BugCrowd](https://bugcrowd.com/teixtarcio) or [bytarcio@gmail.com](mailto:bytarcio@gmail.com)<br/>
 
 ## ⚡ Technologies
 Talk to me about:

@@ -1,6 +1,6 @@
-## 👨🏻‍💻 About Me
-:dna: React Native developer who loves making high-quality applications.<br/>
-:hammer_and_wrench: Mainly code with Javascript and related tecnologies.<br/>
-:shield: Cyber Security enthusiast.<br/>
+## 👨🏻‍💻 Sobre mim
+:dna: Desenvolvedor Mobile que ama criar aplicações de alta qualidade.<br/>
+:hammer_and_wrench: Trabalho principalmente com código com Javascript e tecnologias relacionadas (React, React Native, Typescript e outros).<br/>
+:shield: Entusiasta em cibersegurança.<br/>
 
-Feel free to contact me via [Linkedin](https://linkedin.com/in/tarcioteix), [BugCrowd](https://bugcrowd.com/teixtarcio) or [bytarcio@gmail.com](mailto:bytarcio@gmail.com)<br/>
+Sinta-se livre para entrar em contato comigo em [Linkedin](https://linkedin.com/in/teixtarcio), [BugCrowd](https://bugcrowd.com/teixtarcio) ou www.tarcio.dev<br/>

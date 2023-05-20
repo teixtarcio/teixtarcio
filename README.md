@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Sobre mim
-:dna: Sou um desenvolvedor backend que desenvolve aplicações de alta qualidade<br/>
+:dna: Desenvolvedor backend criando aplicações de alta qualidade<br/>
 :hammer_and_wrench: Trabalho principalmente com código Java e tecnologias relacionadas<br/>
 :shield: Entusiasta em cibersegurança<br/>
 
